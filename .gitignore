@@ -1,6 +1,6 @@
+*pyc
+*__pycache__
 */data/*
-# */data/test*
-# */data/train*
 *.zip
 
 # Don't ignore these files
